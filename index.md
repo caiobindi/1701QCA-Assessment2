@@ -124,11 +124,11 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](score.png)
+![Image](score.PNG)
 
 This is the code for the score board. I am unable to test it yet because I do not have the IR sensor micro:mate
 
-![Image](timercode.png)
+![Image](timercode.PNG)
 
 This is the code for the timer. I have tested it and it's working. I just figure out a way to incorporate with the score board code.
 
