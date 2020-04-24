@@ -111,7 +111,7 @@ This project will be a game were the aim is to score as money points as possible
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flowchart.jpg)
 
 ## Physical experimentation documentation ##
 
@@ -139,5 +139,9 @@ This is my design so far for the hoop. The micro: bit will be in the centre were
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+I first started my process thinking about my interests. I thought of basketball so I went with that. I then had to figure out how to incorporate an interactive idea to basketball. The first thing that came to my head was those games at the arcade were you have a certain amount of time to make as many shots as possible. I decided to use this as inspiration. I then had to figure out how they work, so then I went on google to find similar projects that use automatic scoring system. Most of them used some sort of sensor to detect the ball going through. So I further researched and found the best sensor to use for my project is a IR sensor. This is because it is very good a picking up motion. I then developed code so it will work with the IR sensor but I have do not got all the hardware to begin testing yet.
+
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+My plan moving forward is to collect all the hardware/ materials I will need to begin constructing, developing and testing my project. 
