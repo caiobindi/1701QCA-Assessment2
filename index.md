@@ -8,7 +8,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Mini Hoop Automatic Score Board
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 Automatic Arduino Goal Counter for Table Football/Soccer
@@ -65,7 +64,6 @@ https://www.hackster.io/alpha/security-system-2188de
 This project is related to mine because it has the same Technology. They both use motion sensors to detect movement.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 ### *Brief resource name/description* ###
 https://www.safewise.com/resources/motion-sensor-guide/
@@ -73,8 +71,6 @@ I first looked a motion sensors but figured it would be too difficult.
 
 https://www.elprocus.com/infrared-ir-sensor-circuit-and-working/
 This was a reading about how IR sensors work. It gave me a better understanding of how to use them. It is relevant to my project beacuse I am using an IR sensor.
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
 ## Conceptual progress ##
 
@@ -87,10 +83,6 @@ Basketball Bounce Tracker
 ![Image](concept1.jpg)
 
 The purpose of this this counter is to count the amount of times the ball is bounced. This will be done by using a micro:bit which will be attached to the ball and each time the ball hits the ground the mirco:bit will detect impact and add a number to the LED display.  
-
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
 Interactive Noughts and Crosses
@@ -109,16 +101,10 @@ Mini Basketball Automatic Score Board
 This project will be a game were the aim is to score as money points as possible in under 30 seconds. How this will work is there will be a sensor right under the rim. I am still experimenting one which type of sensors I will use. The two main ones I'm testing is a light sensor and IR sensor. What I am thinking for the 30 second timer is when it runs out, the score will go back to 0 and it will make a noise. If I do chose to use a IR sensor I will have to purchase that and a micro:mate (breakout board). For the hoop itself I am going to construct one out of wood. The experience of the user will connect with the functionally of the project via vison and sound.
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](flowchart.jpg)
 
 ## Physical experimentation documentation ##
-
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
@@ -137,11 +123,9 @@ https://youtu.be/TczXaRjO0-s
 This is my design so far for the hoop. The micro: bit will be in the centre were it is easily to see the score. The IR sensor will be located right under the hoop so it senses the ball when it goes in. 
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 I first started my process thinking about my interests. I thought of basketball so I went with that. I then had to figure out how to incorporate an interactive idea to basketball. The first thing that came to my head was those games at the arcade were you have a certain amount of time to make as many shots as possible. I decided to use this as inspiration. I then had to figure out how they work, so then I went on google to find similar projects that use automatic scoring system. Most of them used some sort of sensor to detect the ball going through. So I further researched and found the best sensor to use for my project is a IR sensor. This is because it is very good a picking up motion. I then developed code so it will work with the IR sensor but I have do not got all the hardware to begin testing yet.
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
 
 My plan moving forward is to collect all the hardware/ materials I will need to begin constructing, developing and testing my project. 
