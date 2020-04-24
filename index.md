@@ -66,6 +66,11 @@ This project is related to mine because it has the same Technology. They both us
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+https://www.safewise.com/resources/motion-sensor-guide/
+I first looked a motion sensors but figured it would be too difficult.
+
+https://www.elprocus.com/infrared-ir-sensor-circuit-and-working/
+This was a reading about how IR sensors work. It gave me a better understanding of how to use them. It is relevant to my project beacuse I am using an IR sensor.
 
 ### *Brief resource name/description* ###
 
@@ -81,11 +86,7 @@ Basketball Bounce Tracker
 
 ![Image](concept1.jpg)
 
-The purpose of this this counter is to count the amount of times the ball is bounced. This will be done by using a micro:bit which will be attached to the ball and each time the ball hits the ground the mirco:bit will detect impact and add a number to the LED display. 
-
-Exploring notes:
-	- The micro:bit might get damaged if the ball is bounced on it. 
-	- I will be able to use similar 
+The purpose of this this counter is to count the amount of times the ball is bounced. This will be done by using a micro:bit which will be attached to the ball and each time the ball hits the ground the mirco:bit will detect impact and add a number to the LED display.  
 
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
@@ -97,9 +98,6 @@ Interactive Noughts and Crosses
 ![Image](concept2.jpg)
 
 This will be played like normal but will be more modern. Instead of drawing a nought or a cross you either single or double click a button (single click noughts, double tap crosses). When placed an X or O will be displayed on the micro:bit led display. 
-
-Exploring notes:
-- 
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
