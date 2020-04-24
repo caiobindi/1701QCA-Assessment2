@@ -66,13 +66,13 @@ This project is related to mine because it has the same Technology. They both us
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+
+### *Brief resource name/description* ###
 https://www.safewise.com/resources/motion-sensor-guide/
 I first looked a motion sensors but figured it would be too difficult.
 
 https://www.elprocus.com/infrared-ir-sensor-circuit-and-working/
 This was a reading about how IR sensors work. It gave me a better understanding of how to use them. It is relevant to my project beacuse I am using an IR sensor.
-
-### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
